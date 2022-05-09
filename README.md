@@ -32,7 +32,7 @@ while True:
         print(f'Que legar, você acertou!! A palavra era {secreto_temporario}')
         break
     else:
-        print(f'A palabra secreta esta assim:{secreto_temporario}')
+        print(f'A palavra secreta esta assim:{secreto_temporario}')
 
     if letra not in secreto:
         chances -= 1
